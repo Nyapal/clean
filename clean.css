@@ -1,0 +1,65 @@
+/* 
+:root {
+  --font-family: --apple-system, BlinkMacSyst emFont, 'Segoe UI';
+  --font-size: 18px;
+  --bg-color: #dad5d5;
+  --fg-color: #fff;
+  --link-color: #f0f;
+}
+*/
+
+body {
+  font-family: 'Open Sans', 'Helvetica', 'Verdana';
+  font-size: 16px;
+  line-height: 1.25em;
+}
+
+h1 {
+  font-size: 3.5em;
+  font-family: 'Allura';
+}
+
+h2 {
+  font-size: 1.75em; 
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1.25em;
+}
+
+h5 {
+  font-size: 1.75em;
+  font-family: 'Allura';
+}
+
+h6 {
+  font-size: 1.0em;
+}
+
+/*
+
+mark {
+  background-color: grey;
+}
+
+a {
+  color: green;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(146, 228, 22)
+}
+
+a:active {
+  color: rgb(185, 211, 145)
+
+}
+a:visited {
+  color: rgb(43, 63, 12)
+
+} */
