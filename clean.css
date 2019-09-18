@@ -9,6 +9,9 @@
 */
 
 body {
+  padding: 25px;
+  margin: auto;
+  width: 100%;
   font-family: 'Open Sans', 'Helvetica', 'Verdana';
   font-size: 16px;
   line-height: 1.25em;
@@ -16,7 +19,7 @@ body {
 
 h1 {
   font-size: 3.5em;
-  /* font-family: 'Allura'; */
+  font-family: 'Allura';
 }
 
 h2 {
@@ -24,21 +27,44 @@ h2 {
 }
 
 h3 {
-  font-size: 1.5em;
+  font-size: 2.00em;
+  font-family: 'Allura';
 }
 
 h4 {
-  font-size: 1.25em;
+  font-size: 1.5em;
 }
 
 h5 {
-  font-size: 1.75em;
+  font-size: 1.5em;
   font-family: 'Allura';
 }
 
 h6 {
-  font-size: 1.0em;
+  font-size: 1.25em;
 }
+
+strong {
+  font-weight: 650;
+}
+
+em {
+  font-style: italic;
+  font-weight: 300;
+}
+
+/* abbr {
+
+} */
+
+del {
+  text-decoration: line-through;
+}
+
+/* s {
+
+} */
+
 
 /*
 
