@@ -14,7 +14,8 @@ body {
   font-family: 'Open Sans', 'Helvetica', 'Verdana';
   font-size: 16px;
   line-height: 1.25em;
-  background-color: white;
+  color: #17073D;
+  background-color: #F4EFF9;
 }
 
 .navbar {
@@ -92,12 +93,12 @@ mark {
   background-color: rgb(237, 197, 254);
 }
 
-/*
 
 a {
-  color: green;
+  color: #1B51AA;
   text-decoration: none;
 }
+/*
 
 a:hover {
   color: rgb(146, 228, 22)
