@@ -15,7 +15,7 @@ body {
   font-size: 16px;
   line-height: 1.25em;
   color: #17073D;
-  background-color: #F4EFF9;
+  background-color: rgba(249, 239, 239, 0.961);
 }
 
 .navbar {
@@ -98,11 +98,21 @@ a {
   color: #1B51AA;
   text-decoration: none;
 }
-/*
 
 a:hover {
-  color: rgb(146, 228, 22)
+  color: rgb(23, 97, 216);
 }
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.footer > ul {
+  list-style: none;
+}
+/*
 
 a:active {
   color: rgb(185, 211, 145)
