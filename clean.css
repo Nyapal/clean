@@ -37,6 +37,10 @@ body {
   padding: 1em;
 }
 
+hr {
+  display: block;
+}
+
 h1 {
   font-size: 3.5em;
   font-family: 'Allura';
@@ -103,22 +107,21 @@ a:hover {
   color: rgb(23, 97, 216);
 }
 
+a:active {
+  color: rgb(185, 211, 145)
+  
+}
+a:visited {
+  color: rgb(43, 63, 12)
+  
+}
+
 .footer {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 .footer > ul {
   list-style: none;
 }
-/*
-
-a:active {
-  color: rgb(185, 211, 145)
-
-}
-a:visited {
-  color: rgb(43, 63, 12)
-
-} */
